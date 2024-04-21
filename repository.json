@@ -1,0 +1,6 @@
+
+{
+    "name": "Cloud Home Assistant add-on",
+    "url": " https://github.com/profdarlan/hassio-addon-cloud.git",
+    "maintainer": "Darlan Ferreira"
+}
