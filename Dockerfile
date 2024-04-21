@@ -44,5 +44,5 @@ LABEL \
   org.label-schema.url="https://github.com/profdarlan/hassio-addon-cloud" \
   org.label-schema.usage="https://github.com/profdarlan/hassio-addon-cloud/blob/main/README.md" \
   org.label-schema.vcs-ref=${BUILD_REF} \
-  org.label-schema.vcs-url="https://github.com/enricodeleo/hassio-addon-nextcloud/" \
+  org.label-schema.vcs-url="https://github.com/profdarlan/hassio-addon-cloud" \
   org.label-schema.vendor="Darlan Ferreira"
